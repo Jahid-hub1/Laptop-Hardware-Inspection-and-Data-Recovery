@@ -107,7 +107,7 @@ I inspected the DVD writer assembly, including its disc spindle and optical pick
 
 ### Wireless Network Interface Card (Wi-Fi & Bluetooth)
 
-![Atheros Wireless Network Card](images/08-wifi-network-card.jpg)
+![Atheros Wireless Network Card](images/8-Wi-Fi%20network%20card.jpg)
 
 During the hardware inspection, I identified an **Atheros AR5B195 wireless network adapter** installed on the motherboard.
 
