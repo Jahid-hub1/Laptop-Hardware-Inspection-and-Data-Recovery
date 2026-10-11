@@ -120,6 +120,24 @@ One of the practical outcomes of this project was recovering personal photograph
 5. Accessed the stored files.
 6. Recovered the required personal photographs and documents.
 
+
+### USB-to-SATA Data Recovery Connection
+
+![HDD connected using USB-to-SATA adapter](images/10-usb-sata-adapter.jpg)
+
+The photograph shows my removed 2.5-inch SATA hard drive connected to another laptop using a BENFEI USB-to-SATA adapter.
+
+This allowed the drive to be accessed externally without requiring the original Sony VAIO laptop to power on.
+
+**Technical observations:**
+- Storage device: 2.5-inch SATA HDD
+- Capacity: 200 GB
+- Speed: 7200 RPM
+- Connection: SATA to USB adapter
+- Recovery method: Accessing and retrieving files from an external drive
+
+This exercise demonstrated a practical method of recovering personal data from a laptop that was no longer operational.
+
 ### Result
 
 **Personal files were successfully accessed and recovered from the removed HDD.**
